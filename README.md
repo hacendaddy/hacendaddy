@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning ASP.NET Core 5
 - 🥅 2021 Goals: Contribute to Open Source projects, be more active in StackOverflow and GitHub
-- ⚡ Fun fact: I love to swim
+- ⚡ About me: I love to swim and I'm a Python enthusiast
