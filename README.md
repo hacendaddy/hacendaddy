@@ -1,6 +1,4 @@
-### I'm Pau - aka [pablodev][website] 👋
-
-[![Website](https://stackoverflow.com/users/12102286/pau)
+### I'm [Pau!](https://paucamos.github.io) 💻
 
 ## I'm a Software Developer
 
