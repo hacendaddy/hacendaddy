@@ -1,4 +1,4 @@
-### I'm [Pau!](https://paucamos.github.io) 💻
+## I'm [Pau!](https://paucamos.github.io) 💻
 
 ## I'm a Software Developer
 
