@@ -6,5 +6,5 @@
 
 <p align="center" style="margin: auto;"> 
   <img src="https://github.com/hacendaddy/hacendaddy/assets/45793792/42913cd9-a8a7-415f-b77f-9f3226115969" alt="Sumi Sakurasawa" width="20%" height="20%">
-  <p align="center"><a href="https://hacendaddy.github.io/">More about me</a></p>
+  <p align="center"><a href="https://hacendaddy.github.io/">>> More about me << </a></p>
 </p>
