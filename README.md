@@ -1,8 +1,8 @@
-## I'm a Software Developer and Data Science student 💻
+## Hey 💻
 
-- 🌱 I’m currently learning Python and Mathematics
-- 🥅 2024 Goals: Learn Python packages and get Data Camp certifications
-- ⚡ About me: I love to swim, going to the gym and I'm a Python enthusiast
+- 🌱 I’m currently studying a MSc in Artificial Intelligence.
+- 🥅 2025 Goals: Bench 225 lbs and learn mathematics.
+- ⚡ About me: I love swimming, reading, lifting weights and the Python programming language.
 
 <p align="center" style="margin: auto;"> 
   <img src="https://github.com/hacendaddy/hacendaddy/assets/45793792/42913cd9-a8a7-415f-b77f-9f3226115969" alt="Sumi Sakurasawa" width="20%" height="20%">
