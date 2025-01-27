@@ -1,7 +1,7 @@
 ## Hey 👋
 
 - 🌱 I’m currently studying a MSc in Artificial Intelligence.
-- 🥅 2025 Goals: Bench 225 lbs and learn mathematics.
+- 🥅 2025 Goals: Bench 225 lbs and improve my mathematical skills.
 - ⚡ About me: I love swimming, reading, lifting weights and the Python programming language.
 
 <p align="center" style="margin: auto;"> 
