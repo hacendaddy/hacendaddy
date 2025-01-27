@@ -1,4 +1,4 @@
-## Hey 💻
+## Hey 👋
 
 - 🌱 I’m currently studying a MSc in Artificial Intelligence.
 - 🥅 2025 Goals: Bench 225 lbs and learn mathematics.
